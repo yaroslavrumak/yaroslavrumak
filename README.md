@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="PUG" width="26px" src="http://tiny.cc/yaiauz" />
+<img align="left" alt="PUG" width="26px" src="https://www.google.com/search?q=jade+pug+png&rlz=1C1SQJL_ruUA815UA815&sxsrf=ALeKk01j2zho06HpGX05sN6A7hBcfx2C_w:1628629136888&tbm=isch&source=iu&ictx=1&fir=gw7XDFQX75XugM%252C_slnb_DYCsRiuM%252C_&vet=1&usg=AI4_-kS9Iv-0bVIQ9ConcOU7WLP48YeI1A&sa=X&ved=2ahUKEwib4bKprKfyAhWt-yoKHQzKBLgQ9QF6BAgMEAE#imgrc=gw7XDFQX75XugM" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br/>
 
 ### Connect with me:
 
