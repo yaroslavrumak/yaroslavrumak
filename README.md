@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="yr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yaroslavrumak&show_icons=true&theme=highcontrast" />
+
+</details>
+
+[instagram]: https://www.instagram.com/yaroslav.rumak/
+[linkedin]: https://www.linkedin.com/in/yaroslav-rumak-94bb65172/
