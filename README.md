@@ -36,7 +36,12 @@ Here are some ideas to get you started:
 <img align="left" alt="React router" width="26px" src="https://camo.githubusercontent.com/bf32d0a71c170dbdb203c201579564f2cd7fc54a24720faad61af12c9605c6b5/68747470733a2f2f7265616374747261696e696e672e636f6d2f72656163742d726f757465722f616e64726f69642d6368726f6d652d313434783134342e706e67" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitLab" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-282507.png" />
+<img align="left" alt="Fork" width="26px" src="https://www.pikpng.com/pngl/m/489-4892848_appicon-fork-git-logo-clipart.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="postman" width="26px" src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" />
+<img align="left" alt="threejs" width="26px" src="https://pbs.twimg.com/profile_images/1156268573137833984/5gdpZtDv_400x400.jpg" />
+<img align="left" alt="scrollmagic" width="26px" src="https://scrollmagic.io/assets/img/demo_tophat.png" />
 <img align="left" alt="gsap" width="26px" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo-man.svg" />
 
 <br/>
