@@ -2,12 +2,8 @@
 
 - 🔭 I’m currently working on two new projects
 - 🌱 I’m currently learning sitecore jss
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about animations
 - 📫 How to reach me: use LinkedIn 
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
 
 <!--
 **yaroslavrumak/yaroslavrumak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
