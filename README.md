@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Front-end developer
 
--🔭 I’m currently working on two new projects
--🌱 I’m currently learning sitecore jss
--💬 Ask me about animations
--📫 How to reach me: see below
+- 🔭 I’m currently working on two new projects
+- 🌱 I’m currently learning sitecore jss
+- 💬 Ask me about animations
+- 📫 How to reach me: see below
 
 <!--
 **yaroslavrumak/yaroslavrumak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
